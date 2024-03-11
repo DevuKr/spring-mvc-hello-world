@@ -37,6 +37,6 @@ steps:
     ConnectionType: 'AzureRM'
     azureSubscription: 'Free Trial(2e660e16-a79b-4679-9b65-ac659a6d5bc5)'
     appType: 'webAppLinux'
-    WebAppName: 'spring-mvc'
+    WebAppName: 'spring-java-17'
     packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.war'
   
